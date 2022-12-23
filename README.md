@@ -11,7 +11,11 @@ like no comentário.
 #Informações técnicas:
 
 -React js + vite js.
+
 -Hooks: useState.
+
 -App dinâmica.
+
 -date-fns para configuração da formatação e inibição da tag <time> neste caso.
+
 -TypeScript para tipar toda a app, evitando possíveis erros por conta da característica dinâmica do JavaScript.

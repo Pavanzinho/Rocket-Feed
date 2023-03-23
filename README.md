@@ -1,21 +1,21 @@
 # Rocket-Feed
 
-Baseia-se em uma simulação de um feed em uma rede social, para estudar e aprimorar o uso de React. 
+It is based on a simulation of a feed in a social network, to study and improve the use of React.
 
--no feed, é possível adicionar posts, que acessam um array contruído no próprio front-end, simulando uma estrutura que seria construída a partir de um .json que seria
-proveniente de algum beck-end em uma API restfull.
+-in the feed, it is possible to add posts, which access an array built in the front-end itself, simulating a structure that would be built from a .json that would be
+coming from some back-end in a restfull API.
 
--É possível adicionar comentários nos posts, onde são mostrados: o tempo em que o comentário foi realizado, foto do usuário que comentou, e uma opção de button para dar 
-like no comentário.
+-It is possible to add comments to the posts, where they are shown: the time the comment was made, photo of the user who commented, and a button option to give
+like the comment.
 
-#Informações técnicas:
+# Technical information:
 
 -React js + vite js.
 
 -Hooks: useState.
 
--App dinâmica.
+-Dynamic app.
 
--date-fns para configuração da formatação e inibição da tag time neste caso.
+-date-fns for setting formatting and inhibiting the time tag in this case.
 
--TypeScript para tipar toda a app, evitando possíveis erros por conta da característica dinâmica do JavaScript.
+-TypeScript to type the entire app, avoiding possible errors due to the dynamic characteristic of JavaScript.
